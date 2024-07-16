@@ -14,3 +14,5 @@ This repository contains:
 
 Feel free to explore the repository.
 
+More details projects can be found here- https://skill-lync.com/profiles/GAURAV-JOSHI-789
+
